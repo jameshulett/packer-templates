@@ -1,5 +1,5 @@
 ==========================
-shiguredo-packer-templates
+Packer Templates
 ==========================
 
 Packer templates for building base VM boxes.
